@@ -21,7 +21,7 @@ repository               : "Kisleif/WAVE-hamburg"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Smart_City.png"
   name             : "WAVE Collaboration"
   pronouns         : # example: "she/her"  
   bio              : "WAVE - a semic network in Hamburg"
