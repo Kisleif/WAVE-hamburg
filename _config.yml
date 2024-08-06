@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "WAVE - a semic network in Hamburg"
   location         : "Hamburg"
-  employer         : "Red Brick University"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -65,6 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
+  twitch           : wave_hamburg
   twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
