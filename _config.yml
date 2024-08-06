@@ -65,7 +65,6 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitch           : wave_hamburg
   twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
@@ -135,8 +134,8 @@ twitch:
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Twitch
+  name                   : wave_hamburg
   links: # An array of links to social media profiles
 
 
